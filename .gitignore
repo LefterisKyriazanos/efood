@@ -1,0 +1,2 @@
+# ignores all csv files in top level directory
+*.csv
