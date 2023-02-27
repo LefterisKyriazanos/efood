@@ -9,4 +9,4 @@
 - Navigate inside the repository through a terminal window and run `pip install -r requirements.txt`. 
 - Execute the [user_analysis.ipynb](./user_analysis/user_analysis.ipynb)
 
-If you don't want to install the related packages found in [requirements.txt](./requirements.txt) to your system you can activate a [virtual environment](https://python.land/virtual-environments/virtualenv)from inside the `efood` folder and run `pip install -r requirements.txt` there. 
+If you don't want to install the related packages found in [requirements.txt](./requirements.txt) to your system you can activate a [virtual environment](https://python.land/virtual-environments/virtualenv) from inside the `efood` folder and run `pip install -r requirements.txt` there. 
