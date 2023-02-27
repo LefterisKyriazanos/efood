@@ -1,3 +1,6 @@
 # ignores all csv files in top level directory
 *.csv
 auth_token.txt
+
+# .ipynb_checkpoints
+user_analysis/.ipynb_checkpoints/
